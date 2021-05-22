@@ -1,1 +1,4 @@
 I am adding test for product search
+
+click on first product
+verify its details
