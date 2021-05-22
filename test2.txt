@@ -1,0 +1,5 @@
+verify user is able to place order or not
+
+how much price
+tax
+then total price
